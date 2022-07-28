@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/QuixoticCS/.github/main/profile/assets/main.svg" width="50%" />
+
+<img align="center" src="https://raw.githubusercontent.com/QuixoticCS/.github/main/profile/assets/main.svg" width="50%" />
 
 <!--
 
