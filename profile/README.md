@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![logo](./assets/main.svg)
+<img src="https://raw.githubusercontent.com/QuixoticCS/.github/main/profile/assets/main.svg" width="200" />
 
 <!--
 
