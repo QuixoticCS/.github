@@ -1,6 +1,6 @@
+<p align="center"><img width="50%" src="https://raw.githubusercontent.com/QuixoticCS/.github/main/profile/assets/main.svg"/></p>
 
 
-<img align="center" width="50%" src="https://raw.githubusercontent.com/QuixoticCS/.github/main/profile/assets/main.svg"/>
 
 <!--
 
