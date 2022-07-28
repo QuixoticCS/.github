@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![logo](./assets/main.png)
+
 <!--
 
 **Here are some ideas to get you started:**
