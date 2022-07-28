@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![logo](./assets/main.png)
+![logo](./assets/main.svg)
 
 <!--
 
