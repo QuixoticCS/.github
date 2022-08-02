@@ -5,5 +5,5 @@
 
 <br>
 
-<p align="center"><a href="https://discord.gg/q5nJmhVE">
+<p align="center"><a href="https://discord.gg/p9E32PkXE5">
 		<img alt="Discord" src="https://img.shields.io/discord/1003866773013147689?color=f076ab&label=Discord&logo=Discord&logoColor=ffffff&labelColor=232525&style=for-the-badge"></a></p>
